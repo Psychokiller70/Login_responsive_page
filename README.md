@@ -19,6 +19,7 @@
 
 
 ![Login Page Screenshot](img/login.jpg)
+![Login Page Screenshot](img/register.jpg)
 
 ---
 
