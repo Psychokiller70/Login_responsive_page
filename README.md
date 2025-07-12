@@ -16,9 +16,9 @@
 
 ## 🖼️ Preview
 
-> _(Add a real screenshot from your project folder if available)_
 
-![Login Page Screenshot](img/)
+
+![Login Page Screenshot](img/login.jpg)
 
 ---
 
